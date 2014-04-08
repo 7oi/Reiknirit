@@ -1,4 +1,4 @@
 Reiknirit / Algorithms
 =========
 
-All my assignments for the algorithm course ar Reykjavík University
+All my assignments for the algorithm course at Reykjavík University
